@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CSLibrary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CSLibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
